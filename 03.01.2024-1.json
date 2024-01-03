@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Saunders",
+    "age": 5,
+    "address": {
+        "street": "Stewart Villages",
+        "city": "North Dana",
+        "state": "Michigan",
+        "zip": "47832"
+    },
+    "contact": {
+        "phone": "(527)734-7887x211",
+        "servicePhone": "800248682"
+    },
+    "birthday": "2020-15-06",
+    "ip": "81.231.169.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Fly race act since. Congress particular people stuff.\nReduce mention tree budget heavy after. Structure heavy another week reason. Industry suddenly someone material.",
+        "bio": "Test fish how season miss can. Do realize some image rock food which. Shoulder hundred go attention table green writer.\nThus culture far shake. Receive cause power remember attack one."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
