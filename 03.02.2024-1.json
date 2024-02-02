@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Hamilton",
+    "age": 116,
+    "address": {
+        "street": "Carter Views",
+        "city": "Leeburgh",
+        "state": "Arkansas",
+        "zip": "98851"
+    },
+    "contact": {
+        "phone": "001-465-286-9473x7469",
+        "servicePhone": "800429408"
+    },
+    "birthday": "1909-01-05",
+    "ip": "160.162.15.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Least wrong item particularly. Data tend lot must. Better cover third road memory.\nArgue him close. Will offer understand.",
+        "bio": "Should understand degree with despite food surface. Quite focus behind economy affect here event. Way be but training somebody human around level."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
