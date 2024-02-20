@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Rodriguez",
+    "age": 95,
+    "address": {
+        "street": "Lopez Shoals",
+        "city": "Melendezton",
+        "state": "Oregon",
+        "zip": "09035"
+    },
+    "contact": {
+        "phone": "+1-954-496-8759x2585",
+        "servicePhone": "800599091"
+    },
+    "birthday": "1930-23-03",
+    "ip": "141.109.77.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood laugh our well population.\nFuture bit law myself various last draw. Friend statement cup mention.",
+        "bio": "Professor quality born best environment into particularly. Sister success foot pay market husband power.\nOwner exist citizen through music. Top no be week. Father serve believe real ask."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
