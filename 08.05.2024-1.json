@@ -1,0 +1,25 @@
+{
+    "name": "Jenna Adams",
+    "age": 86,
+    "address": {
+        "street": "Roberts Circles",
+        "city": "South Gabrielmouth",
+        "state": "Louisiana",
+        "zip": "10386"
+    },
+    "contact": {
+        "phone": "756.857.5535x3114",
+        "servicePhone": "800105846"
+    },
+    "birthday": "1939-24-10",
+    "ip": "220.125.95.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Board affect three my herself. Before ability evidence.\nWish no wall form. Suffer impact more school moment. Set rest beat whose PM.",
+        "bio": "Born worry carry into. Position affect southern especially fine. Between could store figure six traditional admit the.\nForce yes time worker child. Staff news think bring. North by whom."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
