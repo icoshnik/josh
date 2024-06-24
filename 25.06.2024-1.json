@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Johnston",
+    "age": 100,
+    "address": {
+        "street": "Ryan Shore",
+        "city": "Deanport",
+        "state": "Tennessee",
+        "zip": "93400"
+    },
+    "contact": {
+        "phone": "877-425-9750x0811",
+        "servicePhone": "800720178"
+    },
+    "birthday": "1925-14-12",
+    "ip": "154.92.80.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Understand investment not case produce fund character. Add paper teacher like nice.\nStay service pressure tree skin necessary single direction. Mean who wide follow leg pull not film.",
+        "bio": "Serious clear explain sort management who.\nAmong source during magazine law decade. Miss technology threat Mrs moment magazine send."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
