@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Mcintyre",
+    "age": 56,
+    "address": {
+        "street": "Carpenter Landing",
+        "city": "Krystalfort",
+        "state": "New York",
+        "zip": "70973"
+    },
+    "contact": {
+        "phone": "245-969-8878",
+        "servicePhone": "800478119"
+    },
+    "birthday": "1969-29-08",
+    "ip": "209.16.32.5",
+    "foo": "bar",
+    "profile": {
+        "about": "To third family so maybe from. From act main. Fear building traditional find he.\nSon fill process another reach mention. Child reason apply. Speak lead management sing.\nRange speak cost mother.",
+        "bio": "Line feel standard force. Tonight popular wife food center number. Once respond religious growth those."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
