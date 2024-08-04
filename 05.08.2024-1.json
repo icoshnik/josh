@@ -1,0 +1,25 @@
+{
+    "name": "Tamara Moses",
+    "age": 69,
+    "address": {
+        "street": "Xavier Causeway",
+        "city": "East Jennifer",
+        "state": "South Dakota",
+        "zip": "53762"
+    },
+    "contact": {
+        "phone": "248-595-5613",
+        "servicePhone": "800264070"
+    },
+    "birthday": "1956-16-06",
+    "ip": "159.184.242.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Prove century real woman. Because light appear fine carry though.\nCharacter trade enter goal. Manager capital option live follow mouth. Project parent evening hot.",
+        "bio": "Laugh senior really level. Size left finally knowledge.\nCultural without from toward. Glass rest the pattern including forward.\nTraditional accept provide."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
