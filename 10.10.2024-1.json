@@ -1,0 +1,25 @@
+{
+    "name": "Tim Romero",
+    "age": 58,
+    "address": {
+        "street": "Cole Vista",
+        "city": "Herringside",
+        "state": "Pennsylvania",
+        "zip": "13734"
+    },
+    "contact": {
+        "phone": "+1-617-588-9727x4486",
+        "servicePhone": "800399468"
+    },
+    "birthday": "1967-30-03",
+    "ip": "191.109.148.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager marriage media impact list.\nBox sell go thought instead. Receive represent all lot society animal size.",
+        "bio": "Too ready wrong agency. Hard write theory pull see. Life model ball.\nAction movie participant to. Hard father again half listen like. Good quite certainly he feel focus something."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
