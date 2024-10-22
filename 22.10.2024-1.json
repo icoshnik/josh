@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Young",
+    "age": 67,
+    "address": {
+        "street": "Bryant Forest",
+        "city": "Burgessport",
+        "state": "North Carolina",
+        "zip": "98505"
+    },
+    "contact": {
+        "phone": "001-470-639-7598x29118",
+        "servicePhone": "800048030"
+    },
+    "birthday": "1958-19-01",
+    "ip": "20.134.3.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Later student society appear energy have term. Yeah hot this already senior. Site left perform community night many level.\nSince public event force green. Daughter player success foreign.",
+        "bio": "Morning myself on into near. Task second necessary.\nFire community interview thus best own.\nOfficial administration build station."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
