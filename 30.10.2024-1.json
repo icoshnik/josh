@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Kirby",
+    "age": 15,
+    "address": {
+        "street": "Joshua Inlet",
+        "city": "West Emily",
+        "state": "Delaware",
+        "zip": "30826"
+    },
+    "contact": {
+        "phone": "733-325-7559",
+        "servicePhone": "800301626"
+    },
+    "birthday": "2010-08-08",
+    "ip": "211.154.207.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Involve ask well ten cover sell never.",
+        "bio": "Outside treat field down cut into. Affect one night agent lay.\nGlass board local lay serve sign power chair. Particularly capital describe crime though."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
