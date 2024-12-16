@@ -1,0 +1,25 @@
+{
+    "name": "James Graves",
+    "age": 90,
+    "address": {
+        "street": "Tiffany Spur",
+        "city": "Holmeschester",
+        "state": "Florida",
+        "zip": "14796"
+    },
+    "contact": {
+        "phone": "001-360-377-1872x53304",
+        "servicePhone": "800046967"
+    },
+    "birthday": "1935-08-02",
+    "ip": "104.168.2.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Everybody paper training ahead compare section or. Participant pay in.\nCall plant agreement first billion.\nWest art onto player individual director reality. None loss bar lot herself eat although.",
+        "bio": "Health husband down someone perform. Lose today significant. Give return four data shoulder.\nEach sense expert. Position election among. Site style race fund clear along form."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
