@@ -1,0 +1,25 @@
+{
+    "name": "Denise Gonzalez",
+    "age": 35,
+    "address": {
+        "street": "Julie Court",
+        "city": "Wagnermouth",
+        "state": "Kansas",
+        "zip": "60906"
+    },
+    "contact": {
+        "phone": "487.578.2107x87982",
+        "servicePhone": "800648186"
+    },
+    "birthday": "1990-04-06",
+    "ip": "49.209.54.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Former information program produce late coach work. Relationship station table different get. Need western thus staff send decision.",
+        "bio": "Quickly article party fly pressure rock. Seat whole perform evidence seven. Low act save current back drop."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}

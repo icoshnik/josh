@@ -1,0 +1,25 @@
+{
+    "name": "Julia Manning",
+    "age": 23,
+    "address": {
+        "street": "Mcgee Route",
+        "city": "South Tanyachester",
+        "state": "Delaware",
+        "zip": "35700"
+    },
+    "contact": {
+        "phone": "6507741784",
+        "servicePhone": "800185599"
+    },
+    "birthday": "2002-20-08",
+    "ip": "12.211.88.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Tree minute participant sign unit might across physical. Center or appear key raise then feel south. Create table wind think many heart.",
+        "bio": "Learn magazine arrive sport security product break. Discover throughout less knowledge record successful. Same probably minute wife seek film start."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
