@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Lyons",
+    "age": 11,
+    "address": {
+        "street": "Lindsey Greens",
+        "city": "Port Richardtown",
+        "state": "Mississippi",
+        "zip": "44586"
+    },
+    "contact": {
+        "phone": "001-799-607-6489x29406",
+        "servicePhone": "800162812"
+    },
+    "birthday": "2014-22-12",
+    "ip": "66.38.76.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Language when least war. Member accept response amount less tend detail eye.",
+        "bio": "Woman fight understand artist write big catch activity. Grow cup every.\nInteresting project floor history side his me dark. Day which choice drive together throughout."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}

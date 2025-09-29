@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Marc Garcia",
+    "age": 59,
+    "address": {
+        "street": "Maria Fort",
+        "city": "Port Bobbyshire",
+        "state": "Ohio",
+        "zip": "57622"
+    },
+    "contact": {
+        "phone": "961-810-9038x040",
+        "servicePhone": "800366659"
+    },
+    "birthday": "1966-13-11",
+    "ip": "20.153.213.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Surface sport school discussion item.\nInto art long.\nFear then technology.\nDeal world write Mrs. Writer adult own guy always soldier member. Conference professor rather create.",
+        "bio": "North official call physical fund past true. Feeling opportunity machine material six process read.\nThe one card ahead give road training. Toward blue specific skin against success."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
