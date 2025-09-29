@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Flores",
+    "age": 26,
+    "address": {
+        "street": "Oliver Shore",
+        "city": "West Jenniferton",
+        "state": "Arizona",
+        "zip": "37021"
+    },
+    "contact": {
+        "phone": "(884)722-0851x17965",
+        "servicePhone": "800299217"
+    },
+    "birthday": "1999-12-12",
+    "ip": "34.198.252.74",
+    "foo": "bar",
+    "profile": {
+        "about": "That hospital anyone watch level walk. Figure since yard thank great good. Against realize treat place.\nMoney animal choose very. Call sense such.",
+        "bio": "Professor over rest realize first specific identify involve."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}

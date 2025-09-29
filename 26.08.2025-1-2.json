@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Smith",
+    "age": 3,
+    "address": {
+        "street": "Alicia Isle",
+        "city": "Michaelport",
+        "state": "Maine",
+        "zip": "92801"
+    },
+    "contact": {
+        "phone": "535-531-0764",
+        "servicePhone": "800608665"
+    },
+    "birthday": "2022-23-05",
+    "ip": "97.149.154.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Imagine law discuss state. Close stop side avoid kid.\nTreat ago smile store financial. Than upon spring media wife. More shoulder cold protect.",
+        "bio": "Finally store far toward. Town east wide ready stage. Different particular fire.\nDrug their whom appear eight cost floor two. Pull indicate test sure."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}

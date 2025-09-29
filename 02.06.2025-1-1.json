@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Farley",
+    "age": 5,
+    "address": {
+        "street": "Robles Junctions",
+        "city": "Port Randyside",
+        "state": "Ohio",
+        "zip": "75353"
+    },
+    "contact": {
+        "phone": "3696963614",
+        "servicePhone": "800078336"
+    },
+    "birthday": "2020-26-07",
+    "ip": "184.205.218.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Buy hospital teacher industry what fly glass nearly. Make over mention bar federal behind wife. Grow film candidate administration. Item far how force election.",
+        "bio": "On always discuss everybody board threat. Heart feel family receive both number small. Ability build brother yet.\nStandard today traditional into light. Live commercial prove hotel contain under."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
