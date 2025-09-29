@@ -1,0 +1,25 @@
+{
+    "name": "Luis Foster",
+    "age": 60,
+    "address": {
+        "street": "Dana Mountains",
+        "city": "Port Leslie",
+        "state": "Oregon",
+        "zip": "31468"
+    },
+    "contact": {
+        "phone": "001-792-218-9268",
+        "servicePhone": "800031491"
+    },
+    "birthday": "1965-17-10",
+    "ip": "31.131.134.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Few personal take possible. Radio physical involve unit many every. Tax for doctor office crime.\nCentury room report either rock piece. Administration shoulder front child five happen like.",
+        "bio": "Manage drop author right and side. Also school fine avoid arrive service.\nRecent including purpose increase. Item laugh position image.\nPolitics newspaper any create yet bag."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
