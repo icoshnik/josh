@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Brown",
+    "age": 14,
+    "address": {
+        "street": "Bryan Islands",
+        "city": "Lake Sandra",
+        "state": "Pennsylvania",
+        "zip": "65113"
+    },
+    "contact": {
+        "phone": "2038145125",
+        "servicePhone": "800177342"
+    },
+    "birthday": "2011-21-01",
+    "ip": "76.159.110.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Mind wrong recognize young fight community tax. Agreement hear technology magazine professional main.",
+        "bio": "Run eat do machine. Maybe price bit look wrong turn. Discuss situation major analysis method various process power.\nSit marriage service ball though owner ten. Watch but local. Lot tax choose."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
