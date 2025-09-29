@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Jordan",
+    "age": 89,
+    "address": {
+        "street": "Tracy Streets",
+        "city": "Palmerside",
+        "state": "Maine",
+        "zip": "03063"
+    },
+    "contact": {
+        "phone": "(618)975-3680",
+        "servicePhone": "800119618"
+    },
+    "birthday": "1936-17-10",
+    "ip": "114.203.202.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Build name he energy few image word once.\nFine past window. Number vote glass or fear college. Serious despite trial.\nArrive decide so rich enough suddenly window. Cost cause learn first toward.",
+        "bio": "The wife much.\nStep range wish like message issue bed. Guy production animal grow drop. Left doctor record morning approach your.\nSize politics size government free. Ahead degree six."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
