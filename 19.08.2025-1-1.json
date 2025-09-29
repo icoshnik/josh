@@ -1,0 +1,25 @@
+{
+    "name": "David Levine",
+    "age": 115,
+    "address": {
+        "street": "Bush Drive",
+        "city": "Leeside",
+        "state": "Virginia",
+        "zip": "87491"
+    },
+    "contact": {
+        "phone": "828-424-0638",
+        "servicePhone": "800211261"
+    },
+    "birthday": "1910-05-04",
+    "ip": "38.80.134.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Race mouth nearly which. Pattern tell board Congress consumer want campaign. Financial form claim individual.",
+        "bio": "Half eight world foot matter.\nOn wall near on.\nTogether whether those anyone character show night rule. Leg get among forget."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
