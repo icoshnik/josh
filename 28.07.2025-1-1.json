@@ -1,0 +1,25 @@
+{
+    "name": "Justin Barton",
+    "age": 31,
+    "address": {
+        "street": "Gutierrez Burg",
+        "city": "Harrisborough",
+        "state": "Nebraska",
+        "zip": "42052"
+    },
+    "contact": {
+        "phone": "(456)706-0874",
+        "servicePhone": "800913811"
+    },
+    "birthday": "1994-04-04",
+    "ip": "151.165.197.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Card economic street cover effort. Church quite world. Voice including bill admit per beat company.\nRecent child trip ground deal customer Mr. Special opportunity system trial.",
+        "bio": "Movement order buy wide.\nSimple early upon cover pretty. Letter both within capital.\nLeast may success ahead article. Experience woman prepare join already benefit professor."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}

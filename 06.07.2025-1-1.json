@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Arnold",
+    "age": 6,
+    "address": {
+        "street": "Maynard Station",
+        "city": "North Blake",
+        "state": "Massachusetts",
+        "zip": "98472"
+    },
+    "contact": {
+        "phone": "8265891606",
+        "servicePhone": "800793127"
+    },
+    "birthday": "2019-29-09",
+    "ip": "64.93.33.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Administration quality respond will program could western. Side audience friend after job sell event. Worker land garden economic every.\nPolitics season machine today class more memory.",
+        "bio": "Include gas offer left early west professor. Quite month practice right girl cut prove. Manager national say thank since major southern."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
