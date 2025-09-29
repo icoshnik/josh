@@ -1,0 +1,25 @@
+{
+    "name": "Emily Simpson",
+    "age": 50,
+    "address": {
+        "street": "Kurt Plaza",
+        "city": "East Alexamouth",
+        "state": "Kentucky",
+        "zip": "11909"
+    },
+    "contact": {
+        "phone": "001-895-693-5730x653",
+        "servicePhone": "800805116"
+    },
+    "birthday": "1975-22-12",
+    "ip": "86.250.194.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Involve husband who say newspaper. Student sing Mrs produce around.\nWorld drop picture course travel. Letter listen mind point total up full. Group explain away alone difference.",
+        "bio": "Arm against test enough often. New reach state now whom new. Meeting both true religious many bad live.\nGame ten sound few. Tell short close grow per professor form."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
